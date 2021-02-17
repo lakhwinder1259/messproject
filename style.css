@@ -1,0 +1,86 @@
+
+body
+{
+margin:0px;
+padding:0px;
+line-height:1.7cm;
+background-image:URL("images/bg-top.jpg");
+}
+#content
+{
+background:#fff center;
+margin:auto;
+padding:5 px;
+box-shadow:4px 4px 6px #fff;
+width:1000 px;
+height:auto;
+border-radius:15 px;
+}
+table
+{
+background:center;
+color:green;
+width:auto;
+height:auto;
+margin-top:50px;
+}
+th
+{
+color:pin;
+font-size:20 px;
+font-family:serif;
+}
+td{
+text-align:center;
+color:gray;
+font-size:16 px;
+font-family:sans-serif;
+}
+#content1
+{
+background:#fff center;
+margin:30px 30px 30px 30px;
+padding:70 px;
+box-shadow:4px 4px 6px #fff;
+width:1000 px;
+height:auto;
+border-radius:15 px;
+}
+#content2
+{
+background:#fff center;
+margin:30px 30px 30px 30px;
+padding:70 px;
+box-shadow:4px 4px 6px #fff;
+width:auto;
+height:auto;
+border-radius:15 px;
+}
+#content10
+{
+margin:50px 50px 50px 50px
+}
+#content11
+{
+margin:50px 50px 50px 100px
+}
+#content12
+{
+margin:10px 30px 30px 10px
+}
+#content13
+{
+margin:10px 10px 10px 10px
+}
+#p{
+padding-left:400px
+}
+
+.button1 {display:inline-block;padding:10px 20px 11px;color:#fff;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;font-size:18px;line-height:1.22em;background-color:#702963;text-transform:uppercase;letter-spacing:-1px}	
+.button1:hover {background:#ff9601}
+
+.buttons a:hover {cursor:pointer;text-decoration:none}
+.buttons {display:center;padding:40px 40px 60px;color:#fff;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;font-size:18px;line-height:1.22em;background:url(../images/button-tail.gif) 0 0 repeat-x #000;text-transform:uppercase;letter-spacing:-1px}	
+.buttons:hover {background:#ff9601}
+.buttons {padding:18px 30px 10px 20px; text-align:right}
+.buttons a {margin-left:10px; padding:10px 42px 11px}
